@@ -1,0 +1,3 @@
+DamagedSystem = {}
+
+return DamagedSystem
